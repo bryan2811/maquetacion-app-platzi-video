@@ -1,1 +1,1 @@
-#Maquetación de la App de Platzi Video
+# Maquetación de la App de Platzi Video
